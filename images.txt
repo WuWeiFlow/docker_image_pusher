@@ -2,3 +2,9 @@
 infiniflow/ragflow:v0.15.1
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
+
+postgres:13
+redis:6
+minio/minio
+getmaxun/maxun-backend:v0.0.9
+getmaxun/maxun-frontend:v0.0.5
