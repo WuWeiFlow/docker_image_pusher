@@ -6,7 +6,8 @@ infiniflow/ragflow:v0.15.1
 mysql:8.0.39
 postgres:13
 redis:6
+valkey/valkey:8
 minio/minio
-elasticsearch:8.17.0
+elasticsearch:8.11.3
 getmaxun/maxun-backend:v0.0.9
 getmaxun/maxun-frontend:v0.0.5
