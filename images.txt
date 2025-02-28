@@ -16,3 +16,6 @@ elasticsearch:8.11.3
 
 getmaxun/maxun-backend:v0.0.9
 getmaxun/maxun-frontend:v0.0.5
+
+pgvector/pgvector:pg17
+supersonicbi/supersonic:latest
