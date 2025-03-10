@@ -4,6 +4,7 @@
 
 infiniflow/ragflow:v0.15.1
 infiniflow/ragflow:v0.16.0
+infiniflow/ragflow:v0.17.0
 infiniflow/infinity:v0.5.2
 infiniflow/infinity:v0.6.0-dev3
 
