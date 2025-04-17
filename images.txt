@@ -20,3 +20,5 @@ getmaxun/maxun-frontend:v0.0.5
 
 pgvector/pgvector:pg17
 supersonicbi/supersonic:latest
+
+rockchin/langbot:v3.4.14
